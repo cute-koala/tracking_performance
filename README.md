@@ -1,5 +1,5 @@
 ### 256x256
-![](256.jpg)
+![](256or224.jpg)
 <table border="1">
 <colgroup>
     <col style="border-right: 2px solid #A9A9A9;">
