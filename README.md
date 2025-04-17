@@ -1299,6 +1299,34 @@
 <td>1.8</td>
 <td></td>
 </tr>
+</table>
+<table border="1">
+<colgroup>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+</colgroup>
 <tr align="center" bgcolor="#D3D3D3">
 <td rowspan="1" colspan="25">2024</td>
 </tr>
@@ -1653,6 +1681,34 @@
 <td>--</td>
 <td>--</td>
 </tr>
+</table>
+<table border="1">
+<colgroup>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col>
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+    <col style="border-right: 2px solid #A9A9A9;">
+</colgroup>
 <tr align="center" bgcolor="#D3D3D3">
 <td rowspan="1" colspan="25">2023</td>
 </tr>
