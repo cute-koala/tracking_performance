@@ -1328,6 +1328,45 @@
     <col style="border-right: 2px solid #A9A9A9;">
     <col style="border-right: 2px solid #A9A9A9;">
 </colgroup>
+<tr align="center">
+<td rowspan="1" colspan="25" align="center" style="font-size:18px"><b>目标跟踪性能速查表</b></td>
+</tr>
+<tr align="center">
+<td rowspan="2" colspan="1"><b>Trackers</b></td>
+<td rowspan="2" colspan="1"><b>Search Size</b></td>
+<td rowspan="2" colspan="1"><b>Source</b></td>
+<td rowspan="1" colspan="3"><b>LaSOT</b></td>
+<td rowspan="1" colspan="3"><b>TrackingNet</b></td>
+<td rowspan="1" colspan="3"><b>GOT-10K</b></td>
+<td rowspan="1" colspan="3"><b>LaSOT_ext</b></td>
+<td rowspan="1" colspan="2"><b>UAV123</b></td>
+<td rowspan="1" colspan="2"><b>TNL2k</b></td>
+<td rowspan="1" colspan="2"><b>NFS</b></td>
+<td rowspan="2" colspan="1"><b>Speed(fps)</b></td>
+<td rowspan="2" colspan="1"><b>Params(M)</b></td>
+<td rowspan="2" colspan="1"><b>FLOPs(G)</b></td>
+<td rowspan="2" colspan="1"><b>MACs(G)</b></td>
+</tr>
+<tr align="center">
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AO</b></td>
+<td><b>SR_0.5</b></td>
+<td><b>SR_0.75</b></td>
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+</tr>
 <tr align="center" bgcolor="#D3D3D3">
 <td rowspan="1" colspan="25">2024</td>
 </tr>
@@ -1710,6 +1749,45 @@
     <col style="border-right: 2px solid #A9A9A9;">
     <col style="border-right: 2px solid #A9A9A9;">
 </colgroup>
+<tr align="center">
+<td rowspan="1" colspan="25" align="center" style="font-size:18px"><b>目标跟踪性能速查表</b></td>
+</tr>
+<tr align="center">
+<td rowspan="2" colspan="1"><b>Trackers</b></td>
+<td rowspan="2" colspan="1"><b>Search Size</b></td>
+<td rowspan="2" colspan="1"><b>Source</b></td>
+<td rowspan="1" colspan="3"><b>LaSOT</b></td>
+<td rowspan="1" colspan="3"><b>TrackingNet</b></td>
+<td rowspan="1" colspan="3"><b>GOT-10K</b></td>
+<td rowspan="1" colspan="3"><b>LaSOT_ext</b></td>
+<td rowspan="1" colspan="2"><b>UAV123</b></td>
+<td rowspan="1" colspan="2"><b>TNL2k</b></td>
+<td rowspan="1" colspan="2"><b>NFS</b></td>
+<td rowspan="2" colspan="1"><b>Speed(fps)</b></td>
+<td rowspan="2" colspan="1"><b>Params(M)</b></td>
+<td rowspan="2" colspan="1"><b>FLOPs(G)</b></td>
+<td rowspan="2" colspan="1"><b>MACs(G)</b></td>
+</tr>
+<tr align="center">
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AO</b></td>
+<td><b>SR_0.5</b></td>
+<td><b>SR_0.75</b></td>
+<td><b>AUC</b></td>
+<td><b>P_Norm</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+<td><b>AUC</b></td>
+<td><b>P</b></td>
+</tr>
 <tr align="center" bgcolor="#D3D3D3">
 <td rowspan="1" colspan="25">2023</td>
 </tr>
